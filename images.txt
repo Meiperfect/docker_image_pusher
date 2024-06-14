@@ -1,1 +1,1 @@
-adguard/adguardhome:v0.107.51
+registry:2.8.3
