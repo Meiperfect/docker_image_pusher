@@ -1,1 +1,4 @@
-1panel/maxkb:v1.2.1
+jitsi/web
+jitsi/prosody
+jitsi/jicofo
+jitsi/jvb
